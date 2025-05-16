@@ -4,4 +4,4 @@ bocah medioker biasa yang ga pinter pinter amat tapi masih pengen berusaha sebis
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Luthfi_269) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%2523E4405F.svg?logo=Facebook&color=blue)](https://www.facebook.com/luthfiMC269/) 
